@@ -26,14 +26,14 @@ How does sales performance change year over year?
 
 ##  Dashboard Features
 
-✔ Total Sales, Total Profit, Quantity, Returns KPIs
-✔ Sales by Segment (Consumer, Corporate, Home Office)
-✔ Sales by Category (Technology, Furniture, Office Supplies)
-✔ Profit by City and Category
-✔ Top Customers by Profit
-✔ Top Products by Profit
-✔ Profit by Sub-Category
-✔ Year filter for time-based analysis
+ Total Sales, Total Profit, Quantity, Returns KPIs
+ Sales by Segment (Consumer, Corporate, Home Office)
+ Sales by Category (Technology, Furniture, Office Supplies)
+ Profit by City and Category
+ Top Customers by Profit
+ Top Products by Profit
+ Profit by Sub-Category
+ Year filter for time-based analysis
 
 ---
 
@@ -46,23 +46,12 @@ How does sales performance change year over year?
 * Tools: Power BI / Tableau, Excel, SQL (optional)
 
 ---
+##  Business Impact
 
-## 📂 Project Structure
-
-```
-Amazon-Dashboard/
-│
-├── Dataset/
-│   └── amazon_sales.csv
-│
-├── Dashboard/
-│   └── Amazon_Sales_Dashboard.pbix
-│
-├── Images/
-│   └── dashboard_snapshot.png
-│
-└── README.md
-```
+* Identifies profitable cities and categories
+* Highlights high-value customers and products
+* Supports sales strategy and performance monitoring
+* Improves decision-making using data-driven insights
 
 ---
 
@@ -93,13 +82,21 @@ Explore insights using filters and visuals
 * GitHub – Version control and project sharing
 
 ---
+## 📂 Project Structure
 
-##  Business Impact
+```
+Amazon-Dashboard/
+│
+├── Dataset/
+│   └── amazon_sales.csv
+│
+├── Dashboard/
+│   └── Amazon_Sales_Dashboard.pbix
+│
+├── Images/
+│   └── dashboard_snapshot.png
+│
+└── README.md
+```
 
-* Identifies profitable cities and categories
-* Highlights high-value customers and products
-* Supports sales strategy and performance monitoring
-* Improves decision-making using data-driven insights
-
----
 
