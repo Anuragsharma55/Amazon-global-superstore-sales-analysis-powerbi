@@ -59,24 +59,3 @@ How does sales performance change year over year?
 
 ![Dashboard Preview](https://github.com/Anuragsharma55/Amazon-global-superstore-sales-analysis-powerbi/blob/ce28403df31663d939ce8cf9616a077484cae80f/Snapshot%20of%20dashboard%20(2).png)
 ```
----
-## How to Use
-
-Clone this repository
-
-Open the .pbix file in Power BI Desktop
-
-Refresh the dataset
-
-Explore insights using filters and visuals
-
----
-##  Tools & Technologies
-
-* Power BI / Tableau – Dashboard creation
-* Excel / CSV – Dataset handling
-* SQL – Data preparation (if required)
-* GitHub – Version control and project sharing
----
-
-
