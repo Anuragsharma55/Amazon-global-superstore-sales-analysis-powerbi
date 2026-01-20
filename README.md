@@ -57,8 +57,7 @@ How does sales performance change year over year?
 
 ##  Dashboard Preview
 
-```md
-![Dashboard Preview](Images/dashboard_snapshot.png)
+![Dashboard Preview](https://github.com/Anuragsharma55/Amazon-global-superstore-sales-analysis-powerbi/blob/ce28403df31663d939ce8cf9616a077484cae80f/Snapshot%20of%20dashboard%20(2).png)
 ```
 
 ---
